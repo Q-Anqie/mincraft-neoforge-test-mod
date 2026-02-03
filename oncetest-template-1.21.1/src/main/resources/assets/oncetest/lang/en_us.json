@@ -1,0 +1,13 @@
+{
+  "itemGroup.oncetest": "Example Mod Tab",
+  "block.oncetest.example_block": "Example Block",
+  "item.oncetest.example_item": "Example Item",
+
+  "oncetest.configuration.title": "Once Test Configs",
+  "oncetest.configuration.section.oncetest.common.toml": "Once Test Configs",
+  "oncetest.configuration.section.oncetest.common.toml.title": "Once Test Configs",
+  "oncetest.configuration.items": "Item List",
+  "oncetest.configuration.logDirtBlock": "Log Dirt Block",
+  "oncetest.configuration.magicNumberIntroduction": "Magic Number Text",
+  "oncetest.configuration.magicNumber": "Magic Number"
+}
